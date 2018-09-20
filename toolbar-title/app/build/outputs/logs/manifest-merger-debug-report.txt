@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/abc92e730358178144f3f9e994cf9e51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3d39e4a5f56b1a4277bef4e97ac56714/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/bebeafccf0fdef37f3b2f345cbecebb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8c9679c34a5486e2d602bba048d9d813/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3d90698688147f09b0699f5e6a2c0a65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/1fad0bbc6063edcbafbd14bf6dcb2f7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6eb15a5f3454de6eb3fa6e451ce161cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/bbf57b83b718acd8f43b50b5ca16b640/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:11-55
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:5:3-16:17
+	android:label
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:7:5-37
+	android:icon
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:6:5-39
+	android:theme
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:8:5-36
+activity#com.sqisland.espresso.toolbartitle.MainActivity
+ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:9:5-15:16
+	android:name
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:9:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:10:7-14:23
+action#android.intent.action.MAIN
+ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:11:9-60
+	android:name
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:11:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml:13:19-66
+uses-sdk
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/abc92e730358178144f3f9e994cf9e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/abc92e730358178144f3f9e994cf9e51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3d39e4a5f56b1a4277bef4e97ac56714/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/3d39e4a5f56b1a4277bef4e97ac56714/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/bebeafccf0fdef37f3b2f345cbecebb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/bebeafccf0fdef37f3b2f345cbecebb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8c9679c34a5486e2d602bba048d9d813/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8c9679c34a5486e2d602bba048d9d813/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3d90698688147f09b0699f5e6a2c0a65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/3d90698688147f09b0699f5e6a2c0a65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/1fad0bbc6063edcbafbd14bf6dcb2f7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/1fad0bbc6063edcbafbd14bf6dcb2f7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6eb15a5f3454de6eb3fa6e451ce161cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6eb15a5f3454de6eb3fa6e451ce161cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/bbf57b83b718acd8f43b50b5ca16b640/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/bbf57b83b718acd8f43b50b5ca16b640/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/AndroidManifest.xml

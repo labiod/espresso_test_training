@@ -1,0 +1,90 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f89f07f5a9c2c4ec56be7612f4bee7e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/a517447750499d5079e9c071d63c9d0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/39983bd64afcbd5f1378308efca21a8a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ba05b24e3d530c6d607290718b2813bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8306a47c82e3a9de37438ac2d71d70c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/04f173a4cea6f7ffd06a41be4ba0bac7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/707db4b216ba77229b2a9e4eb5a9c8ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b0d5d4f09860e8c2c942799c37111b1f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a65b75d4711e4bb61cf6137bae2ebcd9/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+	package
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:1:1-18:12
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:4:3-17:17
+	android:label
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:5:7-39
+	android:icon
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:6:7-41
+	android:allowBackup
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:8:7-33
+	android:theme
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.sqisland.android.espresso.recyclerview.MainActivity
+ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:9:5-16:16
+	android:label
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:11:9-41
+	android:name
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:10:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:12:7-15:23
+action#android.intent.action.MAIN
+ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:13:9-60
+	android:name
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:13:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:14:9-68
+	android:name
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml:14:19-66
+uses-sdk
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f89f07f5a9c2c4ec56be7612f4bee7e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/f89f07f5a9c2c4ec56be7612f4bee7e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/a517447750499d5079e9c071d63c9d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/a517447750499d5079e9c071d63c9d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/39983bd64afcbd5f1378308efca21a8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/39983bd64afcbd5f1378308efca21a8a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ba05b24e3d530c6d607290718b2813bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/ba05b24e3d530c6d607290718b2813bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8306a47c82e3a9de37438ac2d71d70c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8306a47c82e3a9de37438ac2d71d70c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/04f173a4cea6f7ffd06a41be4ba0bac7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/04f173a4cea6f7ffd06a41be4ba0bac7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/707db4b216ba77229b2a9e4eb5a9c8ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/707db4b216ba77229b2a9e4eb5a9c8ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b0d5d4f09860e8c2c942799c37111b1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/b0d5d4f09860e8c2c942799c37111b1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a65b75d4711e4bb61cf6137bae2ebcd9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/kbetlej/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/a65b75d4711e4bb61cf6137bae2ebcd9/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kbetlej/workspace/other/espressoTest/recyclerview/app/src/main/AndroidManifest.xml
