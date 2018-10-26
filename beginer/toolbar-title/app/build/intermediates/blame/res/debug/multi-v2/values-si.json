@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
+            "outputFile": "/Users/kbetlej/workspace/other/espressoTest/beginer/toolbar-title/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
             "map": [
                 {
                     "source": "/Users/kbetlej/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/6eb15a5f3454de6eb3fa6e451ce161cd/res/values-si/values-si.xml",

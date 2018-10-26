@@ -1,0 +1,1033 @@
+{
+  "_total_entries": 25,
+  "_name": "items",
+  "_type": "collection",
+  "_embedded": {
+    "items": [
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 171,
+        "name": "ABCFAM",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/572/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/4/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 13,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/4/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/572/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 174,
+        "name": "AETV",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/575/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/1/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 10,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/1/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/575/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 183,
+        "name": "ANIMAL",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/584/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/1/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 6,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/1/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/584/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 173,
+        "name": "BET",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/574/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/2/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 11,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/2/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/574/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 172,
+        "name": "BRAVO",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/573/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/3/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 12,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/3/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/573/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 170,
+        "name": "CMTV",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/571/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/5/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 14,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/5/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/571/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 169,
+        "name": "CNBC",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/570/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/6/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 15,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/6/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/570/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 168,
+        "name": "CNN",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/569/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/7/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 16,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/7/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/569/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 167,
+        "name": "COMEDY",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/568/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/8/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 17,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/8/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/568/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 176,
+        "name": "DISCHD",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/577/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/8/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 8,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/8/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/577/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 165,
+        "name": "DISNEY",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/566/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/2/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 19,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/2/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/566/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 161,
+        "name": "E!",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/562/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/1/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 23,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "genres": "Action",
+        "source_array": [
+          "http://d2.cubiware.com/content/live/1/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/562/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 178,
+        "name": "ESPNHD",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/579/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/6/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 1,
+        "npvr_enabled": true,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/6/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/579/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 180,
+        "name": "GREEN",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/581/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/4/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 4,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/4/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/581/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 179,
+        "name": "ID",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/580/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/5/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 5,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/5/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/580/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 163,
+        "name": "LIFE",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/564/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/3/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 21,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "genres": "Action",
+        "source_array": [
+          "http://d2.cubiware.com/content/live/3/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/564/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 162,
+        "name": "MTV",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/563/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/4/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 22,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "genres": "Music",
+        "source_array": [
+          "http://d2.cubiware.com/content/live/4/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/563/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 160,
+        "name": "NIK",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/561/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/2/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 24,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": [
+            {
+              "_type": "services::channel::offer",
+              "id": 7,
+              "name": "Offer 2",
+              "price": 0,
+              "type": "PackageOffer",
+              "external_id": "2"
+            }
+          ]
+        },
+        "is_adult": false,
+        "external_id": null,
+        "genres": "Animation",
+        "source_array": [
+          "http://d2.cubiware.com/content/live/2/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/561/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 175,
+        "name": "SCIHD",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/576/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/9/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 2,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/9/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/576/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 177,
+        "name": "SHOWHD",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/578/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/7/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 7,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/7/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/578/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 159,
+        "name": "SYFY",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/560/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/7/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 25,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": [
+            {
+              "_type": "services::channel::offer",
+              "id": 6,
+              "name": "Offer 1",
+              "price": 0,
+              "type": "PackageOffer",
+              "external_id": "1"
+            }
+          ]
+        },
+        "is_adult": false,
+        "external_id": null,
+        "genres": "Sci-Fi",
+        "source_array": [
+          "http://d2.cubiware.com/content/live/7/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/560/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 164,
+        "name": "TELE",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/565/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/2/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 20,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "genres": "Action",
+        "source_array": [
+          "http://d2.cubiware.com/content/live/2/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/565/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 182,
+        "name": "TLC",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/583/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/2/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 9,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/2/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/583/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 181,
+        "name": "TRAVEL",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/582/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/3/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 3,
+        "npvr_enabled": false,
+        "catchup_enabled": true,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/3/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/582/thumbnail/image.png"
+          }
+        ]
+      },
+      {
+        "type": "Channel",
+        "_type": "services::tv::product",
+        "id": 166,
+        "name": "TRUTV",
+        "description": "",
+        "rating": {
+          "mpaa_rating": null,
+          "mex_rating": null,
+          "age_rating": null,
+          "vchip_rating": null,
+          "content_ratings": []
+        },
+        "cover_url": "/system/images/567/channel/image.png",
+        "runtime": 0,
+        "content": {
+          "source": "http://d2.cubiware.com/content/live/9/live.m3u8",
+          "trailer": "",
+          "drm": false
+        },
+        "lcn": 18,
+        "npvr_enabled": false,
+        "catchup_enabled": false,
+        "_embedded": {
+          "offers": []
+        },
+        "is_adult": false,
+        "external_id": null,
+        "source_array": [
+          "http://d2.cubiware.com/content/live/9/live.m3u8"
+        ],
+        "covers": [
+          {
+            "cover_name": "thumbnail",
+            "width": 20,
+            "height": 20,
+            "url": "/system/images/567/thumbnail/image.png"
+          }
+        ]
+      }
+    ]
+  }
+}

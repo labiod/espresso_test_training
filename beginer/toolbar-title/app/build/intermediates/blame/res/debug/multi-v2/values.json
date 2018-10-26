@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/kbetlej/workspace/other/espressoTest/beginer/toolbar-title/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/kbetlej/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/abc92e730358178144f3f9e994cf9e51/res/values/values.xml",
@@ -23,26 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "2",
-                        "startOffsets": "50",
-                        "endLines": "8",
-                        "endColumns": "10",
-                        "endOffsets": "346"
-                    },
-                    "to": {
-                        "startLines": "441",
-                        "startColumns": "4",
-                        "startOffsets": "39784",
-                        "endLines": "446",
-                        "endColumns": "10",
-                        "endOffsets": "40080"
-                    }
-                },
-                {
-                    "source": "/Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/res/values/colors.xml",
+                    "source": "/Users/kbetlej/workspace/other/espressoTest/beginer/toolbar-title/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "2,2,2",
@@ -59,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/res/values/strings.xml",
+                    "source": "/Users/kbetlej/workspace/other/espressoTest/beginer/toolbar-title/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "1,2",
                         "startColumns": "2,2",
@@ -76,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/Users/kbetlej/workspace/other/espressoTest/toolbar-title/app/src/main/res/values/ic_launcher_background.xml",
+                    "source": "/Users/kbetlej/workspace/other/espressoTest/beginer/toolbar-title/app/src/main/res/values/ic_launcher_background.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -90,6 +71,25 @@
                         "startOffsets": "2783",
                         "endColumns": "56",
                         "endOffsets": "2835"
+                    }
+                },
+                {
+                    "source": "/Users/kbetlej/workspace/other/espressoTest/beginer/toolbar-title/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "2",
+                        "startOffsets": "50",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "346"
+                    },
+                    "to": {
+                        "startLines": "441",
+                        "startColumns": "4",
+                        "startOffsets": "39784",
+                        "endLines": "446",
+                        "endColumns": "10",
+                        "endOffsets": "40080"
                     }
                 },
                 {

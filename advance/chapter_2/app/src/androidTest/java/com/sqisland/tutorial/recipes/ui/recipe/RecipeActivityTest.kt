@@ -30,8 +30,7 @@ class RecipeActivityTest {
 
     @Test
     fun clickToFavorite() {
-        RecipeRobot()
-            .launch(activityRule, CARROTS_ID)
+        launchRecipe(CARROTS_ID)
 
         onView(withId(R.id.recipe_title))
             .check(matches(withText("Creamed Carrots")))
